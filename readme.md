@@ -11,6 +11,14 @@ A PHP-based web application for managing laundry services, customer orders, and 
 - Customer Management  
 - Notification System  
 
+## 🖼 Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Admin Login Section
+![Admin Login Section](screenshots/services.png)
+
 ## 🛠 Technology Stack
 - PHP  
 - MySQL  

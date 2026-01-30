@@ -54,4 +54,4 @@ http://localhost/laundry/admin
 
 ## 👩‍💻 Author
 Aishwarya Jalli  
-MCA Student – KLE IT College, Hubli
+MCA Fresher – KLE IT College, Hubli
